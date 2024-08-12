@@ -1044,7 +1044,7 @@ if (isset($_GET["code"])) {
 				<div class="footer-wrap pd-20 mb-20 card-box">
 					Todos los derechos reservados para &copy;
 					<a href="https://emdesi.com" target="_blank"
-						>Esto es nuevo</a
+						>Emdesi</a
 					>
 				</div>
 			</div>
